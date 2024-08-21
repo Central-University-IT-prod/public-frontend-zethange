@@ -1,0 +1,8 @@
+{
+  "name": "Habito: трекер привычек",
+  "short_name": "Habito",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Простой трекер (некрасивый) привычек"
+}
